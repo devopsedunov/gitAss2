@@ -1,7 +1,4 @@
 # gitAss2
 branch 1 update
-<<<<<<< HEAD
 Branch2 update
-=======
 branch1 udape 2
->>>>>>> branch1
